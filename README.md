@@ -13,6 +13,24 @@ Desenvolver uma aplicação que utilize um arquivo JSON contendo dados de filmes
 - Design responsivo e agradável
 - Interface intuitiva e fácil de usar
 
+### Instalação e Execução
+
+1.  **Clone o repositório** (se aplicável):
+    ```bash
+    git clone https://github.com/eduarda-guimaraes/modulo2-tarefa2-teach3035.git
+    ```
+2.  **Acesse a pasta do projeto** no terminal:
+    ```bash
+    cd modulo2-tarefa2-teach3035
+    ```
+3.  **Execute a aplicação** em modo de desenvolvimento:
+    ```bash
+    npm start
+    # ou
+    yarn start
+    ```
+O projeto será iniciado e aberto automaticamente no seu navegador, geralmente em `http://localhost:3000`.
+
 ## 🎯 Objetivos da Tarefa
 
 1. **Carregar dados do JSON** - Ler e processar dados de filmes
